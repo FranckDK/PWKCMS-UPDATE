@@ -1,0 +1,6 @@
+<h2>Version 1.2.2-RC1</h2><h3>Changelog</h3><hr/>
+Version du 04/12/2015 par Franck-Richard PIWOWARCZYK<hr/>
+<b>Ajout de nouvelles fonctionnalités</b>
+
+<b>Correction de bugs</b>
+01 - Correction du module de mise à jour
